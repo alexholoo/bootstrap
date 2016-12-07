@@ -1,6 +1,8 @@
 # Note from HH:
 * [Github Pages Tutorial](https://pages.github.com/)
 * [Website template: Start Bootstrap](http://startbootstrap.com/)
+* [Tutorial: deplay a website on github](https://www.youtube.com/watch?v=39hnYDC_o9U)
+
 ***
 
 ## [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
